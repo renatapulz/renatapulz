@@ -1,16 +1,23 @@
-### Hi there 👋
+<div style="display: inline_block"><br>
+    Oiiiii! Eu sou a Renata Pulz!
+    <img align="right" alt="Renata-gif" width="220px" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
+</div>
 
-<!--
-**renatapulz/renatapulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<p align="center">
+<a href="https://www.linkedin.com/in/renata-pulz-781aa2191/" target="_blank">
+  <img align="center" alt="Renata Pulz | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/renatapulz/?hl=pt-br" target="_blank">
+  <img align="center" alt="Renata Pulz | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:renatadpulz@gmail.com" >
+  <img align="center" alt="Renata Pulz | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/renata.pulz">
+    <img align="center" alt="Renata Pulz | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+<p>
+  </div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/renatapulz/renatapulz/blob/output/github-contribution-grid-snake.svg)
